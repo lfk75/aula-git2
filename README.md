@@ -1,4 +1,4 @@
-#aula-git2
+# aula-git2
 
 Primeira alteração.
 
